@@ -1,0 +1,52 @@
+[
+    {
+      "ID": "12345",
+      "Cover": "cover1.jpg",
+      "Title": "The Secret Garden",
+      "Author": "Jane Doe",
+      "Author_img": "author1.jpg",
+      "Posted_Date": "2023-09-10",
+      "Reading_Time": 45,
+      "Hashtags": "#fiction #classics"
+    },
+    {
+      "ID": "67890",
+      "Cover": "cover2.jpg",
+      "Title": "Beyond the Stars",
+      "Author": "John Smith",
+      "Author_img": "author2.jpg",
+      "Posted_Date": "2023-09-08",
+      "Reading_Time": 60,
+      "Hashtags": "#scifi #adventure"
+    },
+    {
+      "ID": "13579",
+      "Cover": "cover3.jpg",
+      "Title": "The Enchanted Forest",
+      "Author": "Emily Johnson",
+      "Author_img": "author3.jpg",
+      "Posted_Date": "2023-09-06",
+      "Reading_Time": 30,
+      "Hashtags": "#fantasy #magic"
+    },
+    {
+      "ID": "24680",
+      "Cover": "cover4.jpg",
+      "Title": "The Art of Cooking",
+      "Author": "Michael Williams",
+      "Author_img": "author4.jpg",
+      "Posted_Date": "2023-09-04",
+      "Reading_Time": 75,
+      "Hashtags": "#cooking #recipes"
+    },
+    {
+      "ID": "98765",
+      "Cover": "cover5.jpg",
+      "Title": "A Journey Through Time",
+      "Author": "Sarah Davis",
+      "Author_img": "author5.jpg",
+      "Posted_Date": "2023-09-02",
+      "Reading_Time": 90,
+      "Hashtags": "#history #time_travel"
+    }
+  ]
